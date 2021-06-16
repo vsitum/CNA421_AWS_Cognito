@@ -11,14 +11,15 @@ In the google console, choose Oauth consent screen in Credentials of our google 
 
 ## EC2:
 
- Creating AWS EC2 (WooComm-Vlado), installing Bitnami (LEMP), creating Domain name (vladositum.me) in NAmecheap.com and           installingSSL/TLS Certificate(HTTPS)) 
+ Creating AWS EC2 (WooComm-Vlado), installing Bitnami (LEMP), creating Domain name (vladositum.me) 
+                   in NAmecheap.com and installingSSL/TLS Certificate(HTTPS)) 
 
 ## Google Console:
 
      1.Create Project to associate one App (user type -external (internal/external organization)),
 
-     2.Create Credentials (OAuth Client ID(Web App), Client secret, Authorized JavaScript origins
- (Cognito URL),Authorized redirect URL (Cognito URL + oauth2/idpresponse). 
+    2.Create Credentials (OAuth Client ID(Web App), Client secret, Authorized JavaScript origins
+                      (Cognito URL),Authorized redirect URL (Cognito URL + oauth2/idpresponse). 
                                                       
      3.Domain verification (domain, where our app’s running)
    
