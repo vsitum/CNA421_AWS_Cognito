@@ -12,7 +12,7 @@ In the google console, choose Oauth consent screen in Credentials of our google 
 ## EC2:
 
  Creating AWS EC2 (WooComm-Vlado), installing Bitnami (LEMP), creating Domain name (vladositum.me) 
-                   in NAmecheap.com and installingSSL/TLS Certificate(HTTPS)) 
+                   in Namecheap.com and installingSSL/TLS Certificate(HTTPS)) 
 
 ## Google Console:
 
